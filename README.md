@@ -1,9 +1,4 @@
-# Dynamic Excel Dashboard - README
 
-## Overview
-This repository contains a dynamic dashboard built in Excel that provides insights into sales, profit, and order details. The dashboard leverages Power Query, Pivot Tables, and interactive visualizations to track key performance indicators (KPIs) and analyze business trends.
-
----
 # Dynamic Excel Dashboard - README
 
 ## Overview
