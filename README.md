@@ -132,6 +132,9 @@ This repository includes:
 - Sample visualizations for each analysis.
 - Screenshots of the final dashboard with interactive components.
 
+  ![WhatsApp Image 2025-01-28 at 12 01 46 PM](https://github.com/user-attachments/assets/93bfec3c-bbcc-4803-8fa3-ef683d417c7b)
+
+
 ---
 
 Thank you for exploring this Excel dashboard! 🚀 If you have any questions or suggestions, feel free to reach out.
